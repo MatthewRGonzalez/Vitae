@@ -4,7 +4,7 @@ This repo includes my work on the scopus API project. Using these scripts functi
 
 **Important: This requires an API key to be inserted into the config.json file for anything to work. Either request key or contact me.**
 
-**Important: As currently, the scripts only work on the SU network, this probably has something to with that SU pays for scopus. But, one can probably work remotely by using VPN and remote access**
+**Important: currently, the scripts only work on the SU network, this probably has something to with that SU pays for scopus. But, one can probably work remotely by using VPN and remote access**
 
 ## Navigation:
 
