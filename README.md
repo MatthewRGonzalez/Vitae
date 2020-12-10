@@ -15,7 +15,7 @@ The "scripts" folder is the most relevant, but to understand whats going on here
 There are many relevant csv files to get to the final project.
 They are applied in the following order:
 
-Vtech.csv, AUTH_ID_Data.csv, multiple_authors.csv, VTECH_IDS"
+Vtech.csv, AUTH_ID_Data.csv, multiple_authors.csv, VTECH_IDS
 
 
 
